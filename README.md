@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @perwindra
 - 👀 I’m interested in Web & Mobile Development
-- 🌱 I’m currently learning NodeJS, Golang, Delphi XE & Bulma CSS
+- 🌱 I’m currently learn & use NodeJS, Delphi XE, SQL Server
 - 📫 You can contact me via email : rosefin.perwindrayana@gmail.com
 
 <!---
